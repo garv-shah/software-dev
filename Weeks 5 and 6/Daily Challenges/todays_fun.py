@@ -59,6 +59,7 @@ try:
         # Sets the values of the layout fields to the values in the csv file
         for key in reader.fieldnames:
             my_window.Element(key).Update(value=string_bool_parser(csv_dict[key]))
+        csv_file.close()
 except FileNotFoundError:
     pass
 

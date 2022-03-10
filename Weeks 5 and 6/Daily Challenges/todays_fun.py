@@ -11,7 +11,7 @@ layout = [
         sg.Text("Subject"), sg.Input(key="fun")
     ],
     [
-        [sg.Radio(subject, group_id='subjects')] for subject in subject_list
+        [sg.Radio(subject, group_id='subjects', key=subject)] for subject in subject_list
         # Uses list comprehension to create a list of radio buttons from the subject list above
     ],
     [
@@ -49,29 +49,20 @@ while True:
 
     # Logic for if the user clicks done
     if event == 'Done':
-        final_dict = {}
-
-        # Creates a dictionary that is a copy of the values' dictionary without the 0, 1, 2, etc. keys
-        # This is because we want these to be the 'subjects' key in the csv file
-        for key in values.keys():
-            if type(key) == str:
-                final_dict[key] = values[key]
-
         # Makes the multiline entry a raw string, as if not, it creates new lines in the csv file, which breaks it
-        final_dict['multiline'] = repr(final_dict['multiline'])
+        values['multiline'] = repr(values['multiline'])
 
         # Iterates through the radios, and if any of them are true, creates a popup window with the subject name
-        for x in range(len(subject_list)):
-            if values[x]:
-                final_dict['subjects'] = subject_list[x]
-                sg.Popup('Chosen Subject:', f'You chose {subject_list[x]}')
+        for subject in subject_list:
+            if values[subject]:
+                sg.Popup('Chosen Subject:', f'You chose {subject}')
 
-        # Writes the final dictionary to a csv file
+        # Writes the dictionary to a csv file
         with open("today's_fun.csv", 'w+', newline='') as csvfile:
-            fieldnames = ['fun', 'subjects', 'chips', 'pizza', 'pasta', 'multiline', 'colours']
+            fieldnames = list(values.keys())
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerow(final_dict)
+            writer.writerow(values)
             csvfile.close()
 
 my_window.close()

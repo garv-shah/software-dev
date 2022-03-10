@@ -1,6 +1,17 @@
 import PySimpleGUI as sg
 import csv
 
+
+# Used when loading the csv file, as we want the string bool types to be python bool types
+def string_bool_parser(string):
+    if string == 'True':
+        return True
+    elif string == 'False':
+        return False
+    else:
+        return string
+
+
 sg.theme('LightBrown2')
 
 subject_list = ["Software Development", "Computer Science", "Applied Computing"]
@@ -37,7 +48,19 @@ layout = [
     ],
 ]
 
-my_window = sg.Window("Today's Fun", layout)
+my_window = sg.Window("Today's Fun", layout, finalize=True)
+
+# Loads the data from a csv file if it exists
+try:
+    with open("today's_fun.csv", 'r') as csv_file:
+        # Creates a dictionary from the csv file
+        reader = csv.DictReader(csv_file)
+        csv_dict = list(reader)[0]
+        # Sets the values of the layout fields to the values in the csv file
+        for key in reader.fieldnames:
+            my_window.Element(key).Update(value=string_bool_parser(csv_dict[key]))
+except FileNotFoundError:
+    pass
 
 # Persistent window logic
 while True:
@@ -49,15 +72,12 @@ while True:
 
     # Logic for if the user clicks done
     if event == 'Done':
-        # Makes the multiline entry a raw string, as if not, it creates new lines in the csv file, which breaks it
-        values['multiline'] = repr(values['multiline'])
-
         # Iterates through the radios, and if any of them are true, creates a popup window with the subject name
         for subject in subject_list:
             if values[subject]:
                 sg.Popup('Chosen Subject:', f'You chose {subject}')
 
-        # Writes the dictionary to a csv file
+        # Writes the values' dictionary to a csv file
         with open("today's_fun.csv", 'w+', newline='') as csvfile:
             fieldnames = list(values.keys())
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

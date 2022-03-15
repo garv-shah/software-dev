@@ -1,7 +1,9 @@
+from matplotlib.offsetbox import AnchoredText
 from tradingview_ta import TA_Handler, Interval, Exchange
 import csv
 import matplotlib.pyplot as plt
 import seaborn as sns
+from datetime import datetime
 
 symbol_list = [
     "360",
@@ -387,7 +389,11 @@ keys = list(output_dict.keys())
 vals = [float(output_dict[k]['BUY']) for k in keys]
 plt.style.use('seaborn-dark')
 plt.figure(figsize=(18, 5))
-sns.barplot(x=keys, y=vals)
+ax = sns.barplot(x=keys, y=vals)
+now = datetime.now()
+time_string = now.strftime("%d/%m/%Y %H:%M:%S")
+anc = AnchoredText(f"Generated at {time_string} - Garv Shah", loc="bottom left", frameon=False)
+ax.add_artist(anc)
 plt.xlabel('\nSymbol')
 plt.ylabel('Buy Intensity')
 plt.title('Daily NOVA Stock Advice')

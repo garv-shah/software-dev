@@ -7,6 +7,12 @@ The following folder contains code and tests for my first SAC. It consists of 4 
 3. Module 3 - Gui
 4. Module 4 - Short Answer Questions
 
+## Note:
+
+I ended up creating a blog for the subject where different versions of these rendered test tables are available, so
+although these are the originals, the more *up to date*, better looking versions are available at my
+blog [here](https://garv-shah.github.io/software-dev-blog/).
+
 ## Module 1 - Word Match
 
 This module is a program that selects a random alphabet and position, and then gets all five-letter words from a csv
@@ -20,3 +26,10 @@ This module is a terminal-based quiz that reads from a csv file to ask the user 
 validating the csv file and adding in various errors and information about where the error occurred. The code can be
 found in `./Primary School Word Quiz/main.py`. <br> The test table can be
 found [here](https://garv-shah.github.io/software-dev/SACs/SAC1%20Garv%20Shah/Primary%20School%20Word%20Quiz/testing).
+
+## Module 3 - CGS Juice Bar
+
+This module was a GUI food ordering system, specifically for various types of juices at a theoretical shop. There were
+various requirements, such as only being able to select a max of 4 fruits/vegetables, as well as categories with prices.
+The code can be found in `./CGS Juice Bar/main.py`. <br> The test table can be
+found [here](https://garv-shah.github.io/software-dev/SACs/SAC1%20Garv%20Shah/CGS%20Juice%20Bar/testing).

@@ -26,8 +26,8 @@ choices_dict = {
 
 category_name_dict = {
     'fruit_vegetable': 'Fruits/Vegetables',
-    'sizes': 'Size',
-    'juice_type': 'Juice Type',
+    'sizes': 'Size*',
+    'juice_type': 'Juice Type*',
     'extras': 'Extras',
     'snacks': 'Snacks'
 }

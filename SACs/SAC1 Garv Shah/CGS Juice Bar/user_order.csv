@@ -1,0 +1,6 @@
+user_name,juice_typeApple,juice_typeTropical,juice_typeOrange,juice_typePineapple,sizesSmall ($3.50),sizesMedium ($4.50),sizesLarge ($6.00),fruit_vegetableApple,fruit_vegetablePineapple,fruit_vegetableBanana,fruit_vegetableStrawberry,fruit_vegetableOrange,fruit_vegetableSpinach,fruit_vegetableCucumber,fruit_vegetableBeetroot,fruit_vegetableCarrot,extrasGinger,extrasHoney,extrasMuesli,extrasChia,extrasSeeds,"snacksHazelnut Protein Balls
+4 for $5.50","snacksChocolate Brownies
+1 for $3.50","snacksAlmond Energy Bites
+4 for $4.50","snacksPassion Fruit Muesli Bar
+1 for $3.25",0,ice_checkbox,reset_checkbox
+Garv,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,juice_type_tab,True,False

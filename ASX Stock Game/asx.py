@@ -1,5 +1,5 @@
 from matplotlib.offsetbox import AnchoredText
-from tradingview_ta import TA_Handler, Interval, Exchange
+from tradingview_ta import TA_Handler, Interval
 import csv
 import matplotlib.pyplot as plt
 import seaborn as sns

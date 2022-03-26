@@ -1,8 +1,5 @@
-from io import BytesIO
 
 import PySimpleGUI as sg
-import os
-from PIL import Image
 
 sg.theme('LightBrown2')
 

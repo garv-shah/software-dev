@@ -1,9 +1,6 @@
-from time import sleep, time
 
-from tradingview_ta import TA_Handler, Interval, Exchange, get_multiple_analysis
-import csv
+from tradingview_ta import Interval, get_multiple_analysis
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 symbol_list = [
     "360",

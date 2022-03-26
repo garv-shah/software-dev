@@ -18,8 +18,7 @@ for file in os.listdir("./"):
                 if input().lower() == "y":
                     print()
                     continue
-                else:
-                    sys.exit()
+                sys.exit()
                 # the above lines of code check if the input file is valid, and warns the user if it isn't
             break
 

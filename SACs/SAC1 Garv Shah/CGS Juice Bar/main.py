@@ -97,7 +97,7 @@ def submit_clicked(internal_values, internal_price):
     # if not just mess around with a few print statements, it's clearer if you see it in action)
     for selector in internal_values.keys():
         if isinstance(selector, str):
-            for internal_key in choices_dict.keys():
+            for internal_key in choices_dict:
                 if internal_key in selector:
                     choice_keys[internal_key].append(selector)
 
@@ -139,7 +139,7 @@ def submit_clicked(internal_values, internal_price):
                     border_width=1,
                     key=category + '_popup__frame',
                     relief=sg.RELIEF_SUNKEN,
-                ) for category in choices_dict.keys() if
+                ) for category in choices_dict if
                 not all(not internal_values[selector] for selector in choice_keys[category])
             ] + [
                 sg.Frame(
@@ -341,7 +341,7 @@ while True:
     # price, as we can go through each category and sum them up, charging a certain amount for how many ever are
     # selected. it is also used to limit the number of checkboxes selected for the fruit/vegetables tab
     counting_selection_dict = collections.defaultdict(dict)
-    for choice_key in choices_dict.keys():
+    for choice_key in choices_dict:
         for array in choices_dict[choice_key]:
             for choice in array:
                 counting_selection_dict[choice_key + '_dict'][choice] = values[choice_key + choice]

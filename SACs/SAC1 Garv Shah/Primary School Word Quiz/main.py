@@ -73,7 +73,7 @@ def filter_by_topic():
     global question_list
 
     user_filter = input("Would you like to filter by topic? (y/n) ").lower()
-    if user_filter == "y" or user_filter == "yes":
+    if user_filter in ("y", "yes"):
         # Gets available topics by getting the topics key/value from each dict (converted to a set to avoid repeats)
         available_topics = set([question['topic'].lower() for question in question_list])
         print(f"Available topics: {', '.join(available_topics)}")

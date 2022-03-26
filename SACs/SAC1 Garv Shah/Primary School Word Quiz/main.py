@@ -86,9 +86,8 @@ def filter_by_topic():
                 # creates a new list of questions, only if the topic key/value is the one selected by the user
                 question_list = [question for question in question_list if question["topic"].lower() == topic]
                 break
-            else:
-                print("Sorry! That topic is not available, please try again.")
-                continue
+            print("Sorry! That topic is not available, please try again.")
+            continue
 
 
 def question_loop():
@@ -117,9 +116,8 @@ def question_loop():
                     print("Incorrect!")
                     print(f"The correct answer was {question['answer']}")
                 break
-            else:
-                print("Sorry! Your input was not a valid answer. Please choose from a - d.")
-                continue
+            print("Sorry! Your input was not a valid answer. Please choose from a - d.")
+            continue
 
         print()
 

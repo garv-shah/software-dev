@@ -30,13 +30,12 @@ def temp_calc():
         if temp == "1":
             fahrenheit_to_celsius()
             break
-        elif temp == "2":
+        if temp == "2":
             celsius_to_fahrenheit()
             break
-        else:
-            # Response to invalid Answers
-            print('Invalid choice, can only be 1 or 2')
-            continue
+        # Response to invalid Answers
+        print('Invalid choice, can only be 1 or 2')
+        continue
 
 
 def area_of_trapezoid():
@@ -81,13 +80,12 @@ def main():
         if choice == "1":
             temp_calc()
             break
-        elif choice == "2":
+        if choice == "2":
             area_of_trapezoid()
             break
-        else:
-            # Response to invalid Answers
-            print('Invalid choice, can only be 1 or 2')
-            continue
+        # Response to invalid Answers
+        print('Invalid choice, can only be 1 or 2')
+        continue
 
 
 if __name__ == '__main__':

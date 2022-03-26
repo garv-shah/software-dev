@@ -70,6 +70,11 @@ def read_and_validate_csv():
 
 
 def filter_by_topic():
+    """
+    This function filters the question_list by topic. It asks the user for a topic, and then reassigns question_list
+    to a subset which only include that topic
+    """
+
     global question_list
 
     user_filter = input("Would you like to filter by topic? (y/n) ").lower()
@@ -91,6 +96,11 @@ def filter_by_topic():
 
 
 def question_loop():
+    """
+    This function runs the main question loop. It goes through the predefined question_list, asking the user to input
+    an answer for each
+    """
+
     global correct_answers
 
     # Main loop of questions

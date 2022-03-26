@@ -92,7 +92,6 @@ def filter_by_topic():
 
 
 def question_loop():
-    global question_list
     global correct_answers
 
     # Main loop of questions

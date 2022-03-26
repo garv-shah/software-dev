@@ -64,8 +64,6 @@ def get_tab_layout(name, frame_layout, price_description=None):
 
 # this function is used to limit the values of a checkbox group from the choices_dict, which is also in the layout
 def limit_checkbox_selection(name, limit, fruit_vegetable_dict):
-    # global variable declaration to interact with the external choices_dict variable, not the internal one
-    global choices_dict
 
     # over here, we get the sum of all the True values, meaning they are selected, and if the number of checkboxes
     # selected is above or equal to the specified limit, all other checkboxes are marked as disabled
@@ -82,9 +80,6 @@ def limit_checkbox_selection(name, limit, fruit_vegetable_dict):
 
 # this function is used to handle when the submit button is clicked
 def submit_clicked(internal_values, internal_price):
-    # global variable declaration to interact with the external variables, not the internal ones
-    global choices_dict
-    global my_window
 
     # this function is defined, so it can be called by the Timer() function, which allows the process to be
     # multithreaded, not interfering with the rest of the application while it runs

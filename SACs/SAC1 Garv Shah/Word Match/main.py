@@ -1,6 +1,7 @@
 import random
 import string
 import os
+import sys
 
 # opens word list and saves it to an array
 # this was changed from just opening the 'words.txt' file, as if the file has a different name, it doesn't work
@@ -18,7 +19,7 @@ for file in os.listdir("./"):
                     print()
                     continue
                 else:
-                    exit()
+                    sys.exit()
                 # the above lines of code check if the input file is valid, and warns the user if it isn't
             break
 

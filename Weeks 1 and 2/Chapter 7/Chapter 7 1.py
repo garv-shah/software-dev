@@ -1,3 +1,6 @@
+import sys
+
+
 user_list = input("please enter a list of integers: ").split(", ")
 
 try:
@@ -5,7 +8,7 @@ try:
         user_list[i] = int(user_list[i])
 except ValueError as err:
     print(f"\nInvalid input listy with error:\n{err}")
-    exit()
+    sys.exit()
 
 print("\n----------------------------------------------------")
 print("The list of integers you entered is: ", user_list)

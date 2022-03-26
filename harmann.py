@@ -1,3 +1,6 @@
+import sys
+
+
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 key = 'xznlwebgjhqdyvtkfuompciasr'
 
@@ -25,4 +28,4 @@ if guess == password:
                 print(i, end='')
 else:
     print('incorrect password')
-    exit()
+    sys.exit()

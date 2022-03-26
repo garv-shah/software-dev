@@ -1,5 +1,6 @@
 import csv
 import os
+import sys
 
 # declaration of global variables
 correct_answers = 0
@@ -29,7 +30,7 @@ def read_and_validate_csv():
                     print(f"The provided file {file} is not in the correct format to be used with this program. "
                           f"Please input a csv file with the correct question format, including the headers 'topic', "
                           f"'question', 'optionA', 'optionB', 'optionC', 'optionD' and 'answer'")
-                    exit()
+                    sys.exit()
 
                 # This loop goes through the question list to make sure they are all valid
                 for x in range(len(question_list)):
@@ -44,19 +45,19 @@ def read_and_validate_csv():
                         # which allows us to find the key with the None value
                         print(f"Sorry, there's an error with your csv file! Namely, row {x + 1} is missing a value "
                               f"for the field {key_list[value_list.index(None)]}. Please fix this and try again.")
-                        exit()
+                        sys.exit()
                     # This statement makes sure that the answer field is valid. The answer shouldn't be the full text
                     # answer, such as "5 sides", but should rather be the associated letter for the question
                     elif question_list[x]["answer"].lower() not in ['a', 'b', 'c', 'd']:
                         print(f"Sorry, there's an error with your csv file! Namely, row {x + 1}'s answer is entered as "
                               f"{question_list[x]['answer']} when the answer field must be a, b, c, or d.")
-                        exit()
+                        sys.exit()
 
                 # Finally, this makes sure that question_list does not equal []. This would mean that the file has the
                 # correct headers, but no questions in it, so the user is prompted to add them
                 if not question_list:
                     print(f"The provided file {file} doesn't have any questions in it. Please add some to continue.")
-                    exit()
+                    sys.exit()
 
     # This is the same statement as the one above, but if question_list = [] *and* the above didn't run,
     # it means that no csv file was found. This is because the original question_list would be unmodified,
@@ -65,7 +66,7 @@ def read_and_validate_csv():
         print("No csv file was found in the local directory. Please create a csv file with questions to continue.")
         print("The headers of the csv file should be as follows:")
         print("topic, question, optionA, optionB, optionC, optionD, answer")
-        exit()
+        sys.exit()
 
 
 def filter_by_topic():

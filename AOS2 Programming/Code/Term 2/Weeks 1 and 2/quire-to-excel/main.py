@@ -2,12 +2,11 @@ import csv
 from datetime import datetime
 from openpyxl import load_workbook
 from copy import copy
-import urllib.request
 
 
 def insert_row(row_num, copy_from):
     gantt.insert_rows(row_num)
-    for row in gantt.iter_rows(min_row=copy_from, max_col=64, max_row=copy_from):
+    for row in gantt.iter_rows(min_row=copy_from, max_col=200, max_row=copy_from):
         for cell in row:
             new_cell = gantt.cell(row=row_num, column=cell.column, value=cell.value)
             new_cell.font = copy(cell.font)
@@ -40,7 +39,7 @@ for task in quire:
     else:
         milestones.append(task)
         current_milestone = task['Name']
-        tasks[current_milestone] = []
+        tasks[current_milestone] = [task]
 
 for i in range(7):
     gantt.cell(row=8 + 2 * i, column=2).value = milestones[i]['Name']

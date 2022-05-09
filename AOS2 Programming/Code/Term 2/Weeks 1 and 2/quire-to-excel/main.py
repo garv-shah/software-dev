@@ -41,13 +41,12 @@ for task in quire:
         current_milestone = task['Name']
         tasks[current_milestone] = [task]
 
-for i in range(7):
+for i in range(len(milestones)):
     gantt.cell(row=8 + 2 * i, column=2).value = milestones[i]['Name']
 
 row_num = 10
 for i in range(len(tasks.keys()) - 1):
     subtasks = tasks[milestones[i]['Name']]
-    print(milestones[i]['Name'])
     print(len(subtasks))
     print(9 + 2 * i)
     task_num = 0

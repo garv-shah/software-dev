@@ -5,3 +5,8 @@ This is all my work for my VCE Software Development class! It also has random pr
 If you'd like to view my SACs, you can look in the SACs folder (how intuitive) <br>
 Here's a directory of them:
 - [SAC 1](AOS2%20Programming/Code/SACs/SAC1%20Garv%20Shah/README.md)
+
+# SAT (Maths Club App)
+You can view my work for the subject on my website [here](https://garv-shah.vercel.app/software-dev) and read blog updates [here](https://garv-shah.vercel.app) under the Software Development tag :D
+
+You can view a timeline of my progress [here](https://quire.io/w/Garv_SAT?view=timeline), or view the Excel Gantt charts in my OneDrive folder

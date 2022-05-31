@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 614 711" style="enable-background:new 0 0 614 711;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#7ACFF5;stroke:#000000;}
+	.st3{font-family:'Helvetica';}
+	.st4{font-size:12px;}
+	.st5{fill:#333333;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:4;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{font-size:11px;}
+	.st9{fill:none;stroke:#333333;stroke-miterlimit:10;stroke-dasharray:4;}
+	.st10{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFF1AA;stroke-miterlimit:10;}
+	.st12{fill:#FF0000;}
+	.st13{fill:#FF0000;fill-opacity:0;}
+	.st14{fill:none;stroke:#000000;}
+	.st15{fill:#FA9646;}
+	.st16{fill:#FA9646;fill-opacity:0;}
+	.st17{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#FA9646;stroke-miterlimit:10;}
+	.st19{fill:#FFF1AA;}
+	.st20{fill:#FFF1AA;fill-opacity:0;}
+</style>
+<path class="st0" d="z"/>
+<rect x="-0.2" y="0.6" class="st1" width="99.9" height="709.7"/>
+<g>
+	<rect x="99.7" y="0.6" pointer-events="all" class="st2" width="512.8" height="709.7"/>
+	<g>
+		<text transform="matrix(1 0 0 1 313.2496 18.15)" class="st3 st4">Maths Club App</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="195.5" cy="375.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 180.3193 380)" class="st3 st4">Login</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="205" cy="204.5" rx="73.1" ry="26"/>
+	<g>
+		<text transform="matrix(1 0 0 1 155.5017 209)" class="st5 st3 st4">Change Password</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M196.7,353.3l6.8-122.8"/>
+	<path pointer-events="all" class="st7" d="M191.4,342.1l5.3,12.3l6.7-11.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 146.9993 271.63)" class="st5 st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="344.2" cy="441" rx="66" ry="20.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 290.3275 445.5)" class="st5 st3 st4">Create User Record</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M239.8,441.4l36.2-0.1"/>
+	<path pointer-events="all" class="st7" d="M265.1,447.3l12-6l-12-6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 227.837 435.3)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M198.5,421.5l-1.5-23.8"/>
+	<path pointer-events="all" class="st7" d="M203.6,408.2l-6.8-11.6l-5.2,12.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 156.567 412.84)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="336.5" cy="577.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 314.9824 575)" class="st5 st3 st4">Change</text>
+		<text transform="matrix(1 0 0 1 308.3232 589)" class="st5 st3 st4">Username</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="199.8" cy="652.6" rx="50.2" ry="25.1"/>
+	<g>
+		<text transform="matrix(1 0 0 1 159.6086 650.12)" class="st5 st3 st4">Change Profile</text>
+		<text transform="matrix(1 0 0 1 180.6262 664.12)" class="st5 st3 st4">Picture</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="200.3" cy="579.9" rx="44.8" ry="22.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 171.1997 577.38)" class="st5 st3 st4">View Own </text>
+		<text transform="matrix(1 0 0 1 169.7554 591.38)" class="st5 st3 st4">Information</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="200.5" cy="517.9" rx="50.2" ry="25.1"/>
+	<g>
+		<text transform="matrix(1 0 0 1 161.3135 515.36)" class="st5 st3 st4">Create Default</text>
+		<text transform="matrix(1 0 0 1 162.6523 529.36)" class="st5 st3 st4">Profile Picture</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M200,461.5l0.3,29"/>
+	<path pointer-events="all" class="st7" d="M194.1,479.7l6.1,11.9l5.9-12"/>
+	<g>
+		<text transform="matrix(1 0 0 1 214.987 475.07)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="199.8" cy="441.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 176.9482 446)" class="st5 st3 st4">Register</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="336.5" cy="127.9" rx="54.5" ry="23.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 306.9902 125.43)" class="st3 st4">Fetch Quiz</text>
+		<text transform="matrix(1 0 0 1 296.6484 139.43)" class="st3 st4">from Database</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="528.5" cy="292.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 496.3242 290)" class="st3 st4">Modify Quiz</text>
+		<text transform="matrix(1 0 0 1 502.3154 304)" class="st3 st4">Database</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M493.6,382.5l26.3-67.9"/>
+	<path pointer-events="all" class="st7" d="M521.6,326.9l-1.3-13.4l-9.9,9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 466.777 347.92)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="398.3" cy="314.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 365.7673 312)" class="st3 st4">Create Quiz</text>
+		<text transform="matrix(1 0 0 1 370.7654 326)" class="st3 st4">Questions</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M438.3,307.7l48-8.1"/>
+	<path pointer-events="all" class="st7" d="M476.6,307.4l10.8-7.9l-12.8-3.9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 431.007 297.58)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="416.5" cy="184.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 380.542 182)" class="st3 st4">Turn Quizzes</text>
+		<text transform="matrix(1 0 0 1 394.3232 196)" class="st3 st4">to Posts</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M437.2,204.5l68.9,66.5"/>
+	<path pointer-events="all" class="st7" d="M494.1,267.7l12.8,4l-4.5-12.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 448.487 235.43)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="493.5" cy="472.7" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 464.9863 477.24)" class="st3 st4">Get Points</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="344.2" cy="502.5" rx="62.5" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 290.6644 507)" class="st3 st4">Modify User Record</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M488.3,424.7l3,28"/>
+	<path pointer-events="all" class="st7" d="M495.4,434.9l-7.2-11.3l-4.7,12.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 479.0093 429.32)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="485.9" cy="402.5" rx="47.6" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 449.7123 400)" class="st3 st4"> Answer Quiz</text>
+		<text transform="matrix(1 0 0 1 458.3754 414)" class="st3 st4">Questions</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M453.5,480.7l-44.6,8.9"/>
+	<path pointer-events="all" class="st7" d="M418.4,481.6l-10.6,8.2l12.9,3.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 400.667 499.24)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="485.9" cy="105.5" rx="55.4" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 448.3705 103)" class="st3 st4">Create Notion</text>
+		<text transform="matrix(1 0 0 1 458.0443 117)" class="st3 st4">Document</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M523.5,270.3l-33-144.8"/>
+	<path pointer-events="all" class="st7" d="M515.2,261l8.5,10.4l3.2-13"/>
+	<g>
+		<text transform="matrix(1 0 0 1 451.1093 171.62)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="382.3" cy="244.5" rx="56" ry="28"/>
+	<g>
+		<text transform="matrix(1 0 0 1 336.8738 242)" class="st3 st4">View Posts from </text>
+		<text transform="matrix(1 0 0 1 335.7546 256)" class="st3 st4">Specified Groups</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="285" cy="263.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 246.9509 268)" class="st3 st4">View All Posts</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="318.2" cy="375.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 278.6653 380)" class="st3 st4">Modify Groups</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M322.3,395.5l17.4,84.8"/>
+	<path pointer-events="all" class="st7" d="M331.6,470.9l8.3,10.5l3.5-12.9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 309.847 440.76)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="205" cy="65.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 169.614 70)" class="st3 st4">View Badges</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="336.5" cy="65.5" rx="40" ry="20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 295.9746 70)" class="st3 st4">Assign Badges</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,65.5h-49.2"/>
+	<path pointer-events="all" class="st7" d="M258.1,59.5l-12,6l12,6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 239.587 79.5)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M198,336.7l-1.2,18.8"/>
+	<path pointer-events="all" class="st7" d="M203.3,348l-5.2-12.4l-6.8,11.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 199.9593 350.6)" class="st5 st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="199.8" cy="309" rx="59.7" ry="25.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 165.2763 306.5)" class="st5 st3 st4">Sign In With </text>
+		<text transform="matrix(1 0 0 1 155.2744 320.5)" class="st5 st3 st4">Service Provider</text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M245.2,334.5l37.4,21"/>
+	<path pointer-events="stroke" class="st6" d="M338.5,557.5l3.4-32.8"/>
+	<path pointer-events="all" class="st7" d="M346.8,536.2l-4.7-12.5l-7.2,11.3"/>
+	<g>
+		<text transform="matrix(1 0 0 1 299.297 543.07)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="477.5" cy="550.5" rx="56" ry="28"/>
+	<g>
+		<text transform="matrix(1 0 0 1 425.9795 555)" class="st3 st4">Comment on Posts</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="344.4" cy="651.5" rx="47.9" ry="24"/>
+	<g>
+		<text transform="matrix(1 0 0 1 300.8834 648.95)" class="st3 st4">Check Whether </text>
+		<text transform="matrix(1 0 0 1 303.2125 662.95)" class="st3 st4">User in Verified</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,578.2l-49.2,0.9"/>
+	<path pointer-events="all" class="st7" d="M258,572.9l-11.9,6.2l12.1,5.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 239.767 592.65)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M200,627.5l0.1-23"/>
+	<path pointer-events="all" class="st7" d="M206,615.4l-5.9-12l-6.1,12"/>
+	<g>
+		<text transform="matrix(1 0 0 1 158.957 618.94)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,627.7L247,603.1"/>
+	<path pointer-events="all" class="st7" d="M259.5,602.6l-13.4,0l8.1,10.7"/>
+	<g>
+		<text transform="matrix(1 0 0 1 235.597 628.02)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M440.6,578.5l-62.8,47.7"/>
+	<path pointer-events="all" class="st7" d="M382.8,614.8l-5.9,12l13.2-2.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 383.007 615.14)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<ellipse pointer-events="all" class="st2" cx="516" cy="653.8" rx="52.5" ry="26.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 468.4873 651.25)" class="st3 st4">Modify Comment </text>
+		<text transform="matrix(1 0 0 1 489.8154 665.25)" class="st3 st4">Database</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M394.5,652.1l69,0.9"/>
+	<path pointer-events="all" class="st7" d="M405.5,646.3l-12.1,5.8l11.9,6.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 397.7893 646.57)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st9" d="M371.3,216.5l-24.7-62.9"/>
+	<path pointer-events="all" class="st10" d="M356.1,161.5l-10-9l-1.2,13.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 318.097 191.58)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M64.5,95.5l121.6,260"/>
+	<path pointer-events="stroke" class="st11" d="M59.6,95.5l103.7,342"/>
+	<ellipse pointer-events="all" class="st12" cx="35.5" cy="260" rx="7.5" ry="7.5"/>
+	<rect x="20.5" y="252.5" pointer-events="all" class="st13" width="30" height="60"/>
+	<ellipse pointer-events="all" class="st14" cx="35.5" cy="260" rx="7.5" ry="7.5"/>
+	<path pointer-events="all" class="st7" d="M35.5,267.5v25"/>
+	<path pointer-events="all" class="st7" d="M20.5,276.5h30"/>
+	<path pointer-events="all" class="st7" d="M35.5,292.5l-15,20"/>
+	<path pointer-events="all" class="st7" d="M35.5,292.5l15,20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 -0.3438 330)" class="st5 st3 st4">Administrator</text>
+	</g>
+	<ellipse pointer-events="all" class="st15" cx="35.5" cy="390" rx="7.5" ry="7.5"/>
+	<rect x="20.5" y="382.5" pointer-events="all" class="st16" width="30" height="60"/>
+	<ellipse pointer-events="all" class="st14" cx="35.5" cy="390" rx="7.5" ry="7.5"/>
+	<path pointer-events="all" class="st7" d="M35.5,397.5v25"/>
+	<path pointer-events="all" class="st7" d="M20.5,406.5h30"/>
+	<path pointer-events="all" class="st7" d="M35.5,422.5l-15,20"/>
+	<path pointer-events="all" class="st7" d="M35.5,422.5l15,20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 13.9854 460)" class="st5 st3 st4">Content</text>
+		<text transform="matrix(1 0 0 1 14.9932 474)" class="st5 st3 st4">Creator</text>
+	</g>
+	<path pointer-events="stroke" class="st17" d="M50.5,291.2l110.6,64.3"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,297l128.6,124.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,415.1l109.3,19.3"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,408.9l107-25.6"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,71.8l94.3,39.7"/>
+	<ellipse pointer-events="all" class="st19" cx="50.5" cy="43" rx="7.5" ry="7.5"/>
+	<rect x="35.5" y="35.5" pointer-events="all" class="st20" width="30" height="60"/>
+	<ellipse pointer-events="all" class="st14" cx="50.5" cy="43" rx="7.5" ry="7.5"/>
+	<path pointer-events="all" class="st7" d="M50.5,50.5v25"/>
+	<path pointer-events="all" class="st7" d="M35.5,59.5h30"/>
+	<path pointer-events="all" class="st7" d="M50.5,75.5l-15,20"/>
+	<path pointer-events="all" class="st7" d="M50.5,75.5l15,20"/>
+	<g>
+		<text transform="matrix(1 0 0 1 27.9951 113)" class="st3 st4">Member</text>
+	</g>
+	<path pointer-events="stroke" class="st17" d="M50.5,283.8L358.3,311"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,408.5l307.8-83.1"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,77.1L460,382.5"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,286.5l387.8,103.3"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,412.2l387.8-8.6"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,281.4L245,266.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,403.5l201-120"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,65.5H165"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,263.3L189.4,85.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.2,382.5l145.1-297"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,395.2L319.1,85.5"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,284.9l89.6,14.5"/>
+	<ellipse pointer-events="all" class="st2" cx="203.2" cy="129.8" rx="43.4" ry="21.7"/>
+	<g>
+		<text transform="matrix(1 0 0 1 166.4897 134.28)" class="st3 st4">View Quizzes</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M246.7,129.2l33.1-0.5"/>
+	<path pointer-events="all" class="st7" d="M269,134.9l11.9-6.2l-12.1-5.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 232.867 116.93)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M65.5,69.7l137.8,38.6"/>
+	<path pointer-events="stroke" class="st6" d="M196.7,353.3l6.8-122.8"/>
+	<path pointer-events="all" class="st7" d="M191.4,342.1l5.3,12.3l6.7-11.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 146.9993 271.63)" class="st5 st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M239.8,441.4l36.2-0.1"/>
+	<path pointer-events="all" class="st7" d="M265.1,447.3l12-6l-12-6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 227.837 435.3)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M198.5,421.5l-1.5-23.8"/>
+	<path pointer-events="all" class="st7" d="M203.6,408.2l-6.8-11.6l-5.2,12.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 156.567 412.84)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M200,461.5l0.3,29"/>
+	<path pointer-events="all" class="st7" d="M194.1,479.7l6.1,11.9l5.9-12"/>
+	<g>
+		<text transform="matrix(1 0 0 1 214.987 475.07)" class="st5 st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M493.6,382.5l26.3-67.9"/>
+	<path pointer-events="all" class="st7" d="M521.6,326.9l-1.3-13.4l-9.9,9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 466.777 347.92)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M438.3,307.7l48-8.1"/>
+	<path pointer-events="all" class="st7" d="M476.6,307.4l10.8-7.9l-12.8-3.9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 431.007 297.58)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M437.2,204.5l68.9,66.5"/>
+	<path pointer-events="all" class="st7" d="M494.1,267.7l12.8,4l-4.5-12.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 448.487 235.43)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M488.3,424.7l3,28"/>
+	<path pointer-events="all" class="st7" d="M495.4,434.9l-7.2-11.3l-4.7,12.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 479.0093 429.32)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M453.5,480.7l-44.6,8.9"/>
+	<path pointer-events="all" class="st7" d="M418.4,481.6l-10.6,8.2l12.9,3.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 400.667 499.24)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M523.5,270.3l-33-144.8"/>
+	<path pointer-events="all" class="st7" d="M515.2,261l8.5,10.4l3.2-13"/>
+	<g>
+		<text transform="matrix(1 0 0 1 451.1093 171.62)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M322.3,395.5l17.4,84.8"/>
+	<path pointer-events="all" class="st7" d="M331.6,470.9l8.3,10.5l3.5-12.9"/>
+	<g>
+		<text transform="matrix(1 0 0 1 309.847 440.76)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,65.5h-49.2"/>
+	<path pointer-events="all" class="st7" d="M258.1,59.5l-12,6l12,6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 239.587 79.5)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M198,336.7l-1.2,18.8"/>
+	<path pointer-events="all" class="st7" d="M203.3,348l-5.2-12.4l-6.8,11.6"/>
+	<g>
+		<text transform="matrix(1 0 0 1 199.9593 350.6)" class="st5 st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M245.2,334.5l37.4,21"/>
+	<path pointer-events="stroke" class="st6" d="M338.5,557.5l3.4-32.8"/>
+	<path pointer-events="all" class="st7" d="M346.8,536.2l-4.7-12.5l-7.2,11.3"/>
+	<g>
+		<text transform="matrix(1 0 0 1 299.297 543.07)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,578.2l-49.2,0.9"/>
+	<path pointer-events="all" class="st7" d="M258,572.9l-11.9,6.2l12.1,5.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 239.767 592.65)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M200,627.5l0.1-23"/>
+	<path pointer-events="all" class="st7" d="M206,615.4l-5.9-12l-6.1,12"/>
+	<g>
+		<text transform="matrix(1 0 0 1 158.957 618.94)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M296.5,627.7L247,603.1"/>
+	<path pointer-events="all" class="st7" d="M259.5,602.6l-13.4,0l8.1,10.7"/>
+	<g>
+		<text transform="matrix(1 0 0 1 235.597 628.02)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M440.6,578.5l-62.8,47.7"/>
+	<path pointer-events="all" class="st7" d="M382.8,614.8l-5.9,12l13.2-2.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 383.007 615.14)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st6" d="M394.5,652.1l69,0.9"/>
+	<path pointer-events="all" class="st7" d="M405.5,646.3l-12.1,5.8l11.9,6.2"/>
+	<g>
+		<text transform="matrix(1 0 0 1 397.7893 646.57)" class="st3 st8">&lt;&lt;Extend&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st9" d="M371.3,216.5l-24.7-62.9"/>
+	<path pointer-events="all" class="st10" d="M356.1,161.5l-10-9l-1.2,13.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 318.097 191.58)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M64.5,95.5l121.6,260"/>
+	<path pointer-events="stroke" class="st11" d="M59.6,95.5l103.7,342"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,291.2l110.6,64.3"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,297l128.6,124.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,415.1l109.3,19.3"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,408.9l107-25.6"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,71.8l94.3,39.7"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,283.8L358.3,311"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,408.5l307.8-83.1"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,77.1L460,382.5"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,286.5l387.8,103.3"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,412.2l387.8-8.6"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,281.4L245,266.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,403.5l201-120"/>
+	<path pointer-events="stroke" class="st11" d="M65.5,65.5H165"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,263.3L189.4,85.5"/>
+	<path pointer-events="stroke" class="st18" d="M50.2,382.5l145.1-297"/>
+	<path pointer-events="stroke" class="st18" d="M50.5,395.2L319.1,85.5"/>
+	<path pointer-events="stroke" class="st17" d="M50.5,284.9l89.6,14.5"/>
+	<path pointer-events="stroke" class="st6" d="M246.7,129.2l33.1-0.5"/>
+	<path pointer-events="all" class="st7" d="M269,134.9l11.9-6.2l-12.1-5.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 232.867 116.93)" class="st3 st8">&lt;&lt;Include&gt;&gt;</text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M65.5,69.7l137.8,38.6"/>
+</g>
+<path class="st0" d="z"/>
+</svg>

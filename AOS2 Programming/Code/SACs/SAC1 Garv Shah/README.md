@@ -39,5 +39,5 @@ found [here](https://garv-shah.github.io/software-dev/SACs/SAC1%20Garv%20Shah/CG
 This final module was a written test, on a Word doc. We had to answer various questions about programming conventions,
 features and explain some logic. It was quite simple, but a good opportunity to demonstrate understand. You can view the
 Word document
-online [here](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/garv-shah/software-dev/blob/main/AOS2%20Programming/Code/SACs/SAC1%20Garv%20Shah/2022_SD_SAC1_module4_test%20V2.docx?raw=true)
+online [here](https://caulfieldgs-my.sharepoint.com/:w:/g/personal/153527_caulfieldgs_vic_edu_au/EUSuRYKIjNhGn6rhz43FDbkBcktq4tbkQcUcQA9FssVV8Q?e=hBE2Kq)
 to see what I did :D

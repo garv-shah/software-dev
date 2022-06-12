@@ -7,6 +7,4 @@ Here's a directory of them:
 - [SAC 1](AOS2%20Programming/Code/SACs/SAC1%20Garv%20Shah/README.md)
 
 # SAT (Maths Club App)
-You can view my work for the subject on my website [here](https://garv-shah.vercel.app/software-dev) and read blog updates [here](https://garv-shah.vercel.app) under the Software Development tag :D
-
-You can view a timeline of my progress [here](https://quire.io/w/Garv_SAT?view=timeline), or view the Excel Gantt charts in my OneDrive folder
+You can view my work for the SAT through a directory of READMEs on GitHub starting [here](U302%20SAT/README.md) and read blog updates [here](https://garv-shah.vercel.app) under the Software Development tag :D

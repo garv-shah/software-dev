@@ -15,14 +15,14 @@ This allowed me to develop project plans in the form of Gantt Charts found in th
 - [SAT Task List](Project%20Plans/SAT%20Task%20List.xlsx)
 - [Project Timeline for PSM](https://quire.io/w/Garv_SAT?view=timeline)
   Prepares Gantt Chart using software that:
-  - [x]: Comprehensively documents all stages of the PSM
-  - [x]: Comprehensively documents all activities of the PSM
-  - [x]: Does both for U3O2 and U4O1
+  - [x] Comprehensively documents all stages of the PSM
+  - [x] Comprehensively documents all activities of the PSM
+  - [x] Does both for U3O2 and U4O1
 - [Gantt Chart](Project%20Plans/SAT%20Task%20List.xlsx):
   Documents comprehensively all relevant:
-  - [x]: Tasks
-  - [x]: Sequencing
-  - [x]: Time Allocations
-  - [x]: Milestones
-  - [x]: Dependencies
-  - [x]: Critical Path
+  - [x] Tasks
+  - [x] Sequencing
+  - [x] Time Allocations
+  - [x] Milestones
+  - [x] Dependencies
+  - [x] Critical Path

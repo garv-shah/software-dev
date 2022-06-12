@@ -7,7 +7,9 @@ Below is a directory of my work, organised by each outcome/section :D
 - [SAT Ideas](SAT%20Preperations/SAT%20Ideas.md)
 - [Software Solution Questions](SAT%20Preperations/Software%20Solution%20Questions.md)
 
-# Project Plans (U3O2, 1)
+# U3O2
+
+## Project Plans (U3O2, 1)
 
 For the project plans, I developed and maintained my project plans using Quire, where a link to the timeline can be
 found [here](https://quire.io/w/Garv_SAT?view=timeline).
@@ -36,12 +38,29 @@ that's documented more later on.
     - [x] Dependencies
     - [x] Critical Path
 
-# Development Model (U3O2, 2)
+## Development Model (U3O2, 2)
 
 - [Documentation of Agile](Project%20Plans/Development%20Model.md#agile)
+  - [x] Comprehensively documents all features of selected development model
 - [Justification](Project%20Plans/Development%20Model.md#selected-model)
+  - [x] Comprehensively documents justification for selected development model
 
-# Data Collection (U3O2, 3)
+## Data Collection (U3O2, 3) ????
 
 - [Data Collection](Data%20Collection/Data%20Collection.md)
 - [Research](Data%20Collection/Research.md)
+
+## Software Requirements Specification (U3O2, 4)
+
+My SRS document can be found as a formalised PDF [here](SRS/Maths%20Club%20SRS.pdf)
+- [x] Comprehensively documents all functional and non-functional requirements
+- [x] Comprehensively documents the technical environment and intended audience
+
+## Software Design (U3O2, 5)
+
+- [Mindmap & Sketches](Design%20Folio/Design.md#mindmap--sketches)
+  - [x] Generates two distinctive & feasible original designs
+- [Evaluation Criteria](Design%20Folio/Design.md#evaluation-criteria)
+  - [x] Generates comprehensive evaluation criteria
+- [Selected Design](Design%20Folio/Design.md#selected-design)
+  - [x] Produces and justifies selected design, referencing evaluation criteria

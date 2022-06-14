@@ -45,14 +45,17 @@ that's documented more later on.
 - [Justification](Project%20Plans/Development%20Model.md#selected-model)
   - [x] Comprehensively documents justification for selected development model
 
-## Data Collection (U3O2, 3) ????
+## Data Collection (U3O2, 3)
 
 - [Data Collection](Data%20Collection/Data%20Collection.md)
 - [Research](Data%20Collection/Research.md)
+  - [x] Documents comprehensive set of relevant data for analysis using a wide range of data collection techniques
 
-## Software Requirements Specification (U3O2, 4)
+## Software Requirements Specification (U3O2, 3/4)
 
 My SRS document can be found as a formalised PDF [here](SRS/Maths%20Club%20SRS.pdf)
+- [x] Accurately uses all features of the selected analytical tools (SRS, DFD, Context Diagrams, etc)
+- [x] Accurately depicts relationships between data, users, and digital systems in said tools
 - [x] Comprehensively documents all functional and non-functional requirements
 - [x] Comprehensively documents the technical environment and intended audience
 

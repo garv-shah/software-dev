@@ -41,29 +41,31 @@ that's documented more later on.
 ## Development Model (U3O2, 2)
 
 - [Documentation of Agile](Project%20Plans/Development%20Model.md#agile)
-  - [x] Comprehensively documents all features of selected development model
+    - [x] Comprehensively documents all features of selected development model
 - [Justification](Project%20Plans/Development%20Model.md#selected-model)
-  - [x] Comprehensively documents justification for selected development model
+    - [x] Comprehensively documents justification for selected development model
 
 ## Data Collection (U3O2, 3)
 
 - [Data Collection](Data%20Collection/Data%20Collection.md)
 - [Research](Data%20Collection/Research.md)
-  - [x] Documents comprehensive set of relevant data for analysis using a wide range of data collection techniques
+    - [x] Documents comprehensive set of relevant data for analysis using a wide range of data collection techniques
 
 ## Software Requirements Specification (U3O2, 3/4)
 
 My SRS document can be found as a formalised PDF [here](SRS/Maths%20Club%20SRS.pdf)
+
 - [x] Accurately uses all features of the selected analytical tools (SRS, DFD, Context Diagrams, etc)
 - [x] Accurately depicts relationships between data, users, and digital systems in said tools
 - [x] Comprehensively documents all functional and non-functional requirements
 - [x] Comprehensively documents the technical environment and intended audience
+- [ ] Comprehensively documents evidence of critical thinking via the analysis of data to determine **reliability**
 
 ## Software Design (U3O2, 5)
 
 - [Mindmap & Sketches](Design%20Folio/Design.md#mindmap--sketches)
-  - [x] Generates two distinctive & feasible original designs
+    - [x] Generates two distinctive & feasible original designs
 - [Evaluation Criteria](Design%20Folio/Design.md#evaluation-criteria)
-  - [x] Generates comprehensive evaluation criteria
+    - [x] Generates comprehensive evaluation criteria
 - [Selected Design](Design%20Folio/Design.md#selected-design)
-  - [x] Produces and justifies selected design, referencing evaluation criteria
+    - [x] Produces and justifies selected design, referencing evaluation criteria

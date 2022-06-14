@@ -12,5 +12,5 @@ Here's a directory of them:
 
 # SAT (Maths Club App)
 
-You can view my work for the SAT through a directory of READMEs on GitHub starting [here](U302%20SAT/README.md) and read
+You can view my work for the SAT through a directory of READMEs on GitHub starting [here](U3O2%20SAT/README.md) and read
 blog updates [here](https://garv-shah.vercel.app) under the Software Development tag :D

@@ -69,3 +69,5 @@ My SRS document can be found as a formalised PDF [here](SRS/Maths%20Club%20SRS.p
     - [x] Generates comprehensive evaluation criteria
 - [Selected Design](Design%20Folio/Design.md#selected-design)
     - [x] Produces and justifies selected design, referencing evaluation criteria
+- [Database Design](Design%20Folio/Database%20Design.md)
+    - [x] Comprehensively documents evidence of critical/creative thinking through the connection + generation of ideas

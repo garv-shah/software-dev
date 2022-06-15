@@ -20,7 +20,8 @@ found [here](../AOS2%20Programming/Code/Term%202/Weeks%201%20and%202/quire-to-ex
 
 This allowed me to develop project plans in the form of Gantt Charts found in the Project Planning folder. I did have to
 make quite a few changes to the plan, switching from Waterfall to Agile and such, which can be found in the comparison
-between [old](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart%20(old).xlsx) and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx), but
+between [old](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart%20(old).xlsx)
+and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx), but
 that's documented more later on.
 
 - [SAT Task List](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx)
@@ -59,8 +60,9 @@ My SRS document can be found as a formalised PDF [here](U3O2%20SAT/SRS/Maths%20C
 - [x] Accurately depicts relationships between data, users, and digital systems in said tools
 - [x] Comprehensively documents all functional and non-functional requirements
 - [x] Comprehensively documents the technical environment and intended audience
-- [x] Comprehensively documents evidence of critical thinking via the analysis of data ~~to determine reliability~~ (Ms.
-  Cotugno said that the reliability part of it wasn't relevant, so I should ignore that)
+- [x] Comprehensively documents evidence of critical thinking via the analysis of data [~~to determine
+  reliability~~](U3O2%20SAT/Data%20Collection/Data%20Collection.md#appendix-reliability) (Ms.
+  Cotugno said that the reliability part of it wasn't relevant, so it's not required but has been completed just incase)
 
 ## Software Design (U3O2, 5)
 

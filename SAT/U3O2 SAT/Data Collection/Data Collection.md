@@ -61,3 +61,16 @@ people would like to see, followed by most of the features listed above. Messagi
 app as it’s just a bit too much. As for platforms, the website, MacOS and iOS will probably be the priority, as they are
 the main ones that people seem to be using. Overall, this data should be a great starting point for the scope and SRS of
 the project!
+
+# Appendix (Reliability):
+
+Through my collection of data, I was able to find various sources giving me a wide insight on the effectiveness and
+performance of a variety of software solutions. For reliability, data was collected from a sufficiently large sample
+size from both stakeholders, those who consume the content and those who produce the content. Getting information from a
+variety of age groups, both from the Junior and Senior school has proved beneficial, as it is clear that different
+demographics within the target audience have different priorities. This can be shown by the varying information supplied
+in the interviews, along with the surveys, along with the secondary data collected from [internet research](Research.md). All in all,
+it is safe to conclude that the data collected is sufficiently reliable, as it corroborates multiple sources, both
+primary and secondary with varying demographics, sample sizes and priorities. If the variation and confirmation from
+these multiple sources can be continually maintained, sources should remain of an acceptable reliability going into the
+future as well.

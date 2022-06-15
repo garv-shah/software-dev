@@ -24,12 +24,14 @@ means that a working prototype or mockup will not be available later in the proj
 The Agile development model is one that achieves flexibility and communication with the client/audience through many
 iterations, called “sprints”. Each iteration goes through the PSM in five stages, gradually improving the software
 solution so the client can see changes frequently. These “sprints” are designed to have quick turnarounds such that
-large changes are not made in a direction the consumer does not desire before they are reviewed and revised. This method
-of continuous development has the benefit of being very flexible and allowing many changes to take place, having a close
-connection with the client to get exactly what they want. On the other hand, it requires quite a bit of skill from the
-developers and introduces easy scope creep that is not ideal, with hard deadlines not being the easiest to set. The
-Agile development model is well suited to when the needs of the client are not well defined and you need frequent
-changes, and when documentation is minimal with bare minimum planning required to start the project.
+large changes are not made in a direction the consumer does not desire before they are reviewed and revised, meaning
+functional requirements are modified quickly. This method of continuous development has the benefit of being very
+flexible and allowing many changes to take place, having a close connection with the client to get exactly what they
+want, reducing risks and providing an early release of the first product. On the other hand, it requires quite a bit of
+skill from the developers and introduces easy scope creep that is not ideal, with hard deadlines not being the easiest
+to set. Along with this, changes may be inconsistent with previous development. The Agile development model is well
+suited to when the needs of the client are not well-defined and you need frequent changes, and when documentation is
+minimal with bare minimum planning required to start the project.
 
 ## Spiral
 

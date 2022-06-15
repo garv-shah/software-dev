@@ -59,7 +59,8 @@ My SRS document can be found as a formalised PDF [here](SRS/Maths%20Club%20SRS.p
 - [x] Accurately depicts relationships between data, users, and digital systems in said tools
 - [x] Comprehensively documents all functional and non-functional requirements
 - [x] Comprehensively documents the technical environment and intended audience
-- [ ] Comprehensively documents evidence of critical thinking via the analysis of data to determine **reliability**
+- [x] Comprehensively documents evidence of critical thinking via the analysis of data ~~to determine reliability~~ (Ms.
+  Cotugno said that the reliability part of it wasn't relevant, so I should ignore that)
 
 ## Software Design (U3O2, 5)
 

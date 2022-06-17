@@ -17,9 +17,11 @@ Unfortunately, Quire does provide ease of use, but doesn't provide the ability t
 dependencies, so some software was developed to convert between the two, which can be
 found [here](../AOS2%20Programming/Code/Term%202/Weeks%201%20and%202/quire-to-excel).
 
-This allowed for the project plan to be developed in the form of the Gantt Charts found in the Project Planning folder. Numerous changes had to be made the timeline throughout planning, switching from Waterfall to Agile and such, which can be found in the comparison
+This allowed for the project plan to be developed in the form of the Gantt Charts found in the Project Planning folder.
+Numerous changes had to be made to the timeline throughout planning, switching from Waterfall to Agile and such, which can
+be found in the comparison
 between [old](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart%20(old).xlsx)
-and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx). This is documented further in the process.
+and [new](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart.xlsx). This is documented further in the process.
 
 - [SAT Task List](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx)
 - [Project Timeline for PSM](https://quire.io/w/Garv_SAT?view=timeline)
@@ -27,7 +29,7 @@ and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx). This is documented
     - [x] Comprehensively documents all stages of the PSM
     - [x] Comprehensively documents all activities of the PSM
     - [x] Does both for U3O2 and U4O1
-- [Gantt Chart](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx):
+- [Gantt Chart](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart.xlsx):
   Documents comprehensively all relevant:
     - [x] Tasks
     - [x] Sequencing

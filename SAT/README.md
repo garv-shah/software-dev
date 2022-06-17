@@ -1,6 +1,5 @@
-This SAT covers a majority of Software Development as a subject, and for this project, I have chosen to develop an app
-for my school Maths Club.
-Below is a directory of my work, organised by each outcome/section :D
+This SAT covers Garv Shah's project for Software Development, where an app for the CGS Maths Club has been developed.
+Below is a directory of work, organised by each outcome/section:
 
 # SAT Preparations (pre-outcomes)
 
@@ -11,18 +10,16 @@ Below is a directory of my work, organised by each outcome/section :D
 
 ## Project Plans (U3O2, 1)
 
-For the project plans, I developed and maintained my project plans using Quire, where a link to the timeline can be
+The project plans have been developed and maintained using Quire, where a link to the timeline can be
 found [here](https://quire.io/w/Garv_SAT?view=timeline).
 
 Unfortunately, Quire does provide ease of use, but doesn't provide the ability to add comprehensive milestones and
-dependencies, so I developed some software to convert between the two, which can be
+dependencies, so some software was developed to convert between the two, which can be
 found [here](../AOS2%20Programming/Code/Term%202/Weeks%201%20and%202/quire-to-excel).
 
-This allowed me to develop project plans in the form of Gantt Charts found in the Project Planning folder. I did have to
-make quite a few changes to the plan, switching from Waterfall to Agile and such, which can be found in the comparison
+This allowed for the project plan to be developed in the form of the Gantt Charts found in the Project Planning folder. Numerous changes had to be made the timeline throughout planning, switching from Waterfall to Agile and such, which can be found in the comparison
 between [old](U3O2%20SAT/Project%20Plans/SAT%20Gantt%20Chart%20(old).xlsx)
-and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx), but
-that's documented more later on.
+and [new](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx). This is documented further in the process.
 
 - [SAT Task List](U3O2%20SAT/Project%20Plans/SAT%20Task%20List.xlsx)
 - [Project Timeline for PSM](https://quire.io/w/Garv_SAT?view=timeline)
@@ -54,15 +51,14 @@ that's documented more later on.
 
 ## Software Requirements Specification (U3O2, 3/4)
 
-My SRS document can be found as a formalised PDF [here](U3O2%20SAT/SRS/Maths%20Club%20SRS.pdf)
+The SRS document can be found as a formalised PDF [here](U3O2%20SAT/SRS/Maths%20Club%20SRS.pdf)
 
 - [x] Accurately uses all features of the selected analytical tools (SRS, DFD, Context Diagrams, etc)
 - [x] Accurately depicts relationships between data, users, and digital systems in said tools
 - [x] Comprehensively documents all functional and non-functional requirements
 - [x] Comprehensively documents the technical environment and intended audience
-- [x] Comprehensively documents evidence of critical thinking via the analysis of data [~~to determine
-  reliability~~](U3O2%20SAT/Data%20Collection/Data%20Collection.md#appendix-reliability) (Ms.
-  Cotugno said that the reliability part of it wasn't relevant, so it's not required but has been completed just incase)
+- [x] Comprehensively documents evidence of critical thinking via the analysis of data [to determine
+  reliability](U3O2%20SAT/Data%20Collection/Data%20Collection.md#appendix-reliability)
 
 ## Software Design (U3O2, 5)
 

@@ -5,15 +5,15 @@ Tags: Data Collection, SAT
 
 # Observations
 
-Through my research, I took some time to observe the environment of maths club as it stands now, taking down some notes
-while the club ran around me. I noticed that a lot of the time, the club hosts people that don’t necessarily care too
-much for the questions, but would rather work on their own maths or get help on classwork. I quite like this aspect of
-the club as well, and would like to encourage it in the future to make the club’s demographic more open and not just
-catered to people who are competition focused as it is now. Some of the students in the club were also not even doing
-maths, but rather had just come in because it was cold outside. I’m hoping that in the future, a more accessible process
-could encourage these people to at least try the problems out, and a range of difficulties would cater or a wider
-audience. I’ve also noticed a lot of paper just kind of left there after the club, and we’ll definitely want to reduce
-that, which the app should help with.
+Through research, some time was taken to observe the Maths Club environment as it stands now, taking down some notes
+while the club ran. It was noticed that a lot of the time, the club hosts people that do not necessarily care too much
+for the questions, but would rather work on their own maths or get help on classwork. It seemed that many quite like
+this aspect of the club as well, and it would be nice to encourage it in the future to make the club’s demographic more
+open and not just catered to people who are competition focused as it is now. Some students in the club were also not
+even doing maths, but rather had just come in because it was cold outside. It is a hope that in the future, a more
+accessible process could encourage these people to at least try the problems out, and a range of difficulties would
+cater for a wider audience. It has also been noticed that a lot of paper was left there after the club, and it will
+definitely be a goal to reduce that, which the app should help with.
 
 # Other Projects/Viability
 
@@ -38,10 +38,10 @@ now, we might need to jut manually type in the LATEX and have it render while yo
 
 > ## Revision:
 > Actually, I was looking into this issue a bit more at the time of writing this, and I found a few new really nice
-plugins that seem to solve my issue. The same people that made Catex before made
-this [Math Keyboard](https://github.com/simpleclub/math_keyboard) for flutter, which I think will be perfect. I also
-found this project called [MathCanvas](https://github.com/gongbj0113/MathCanvas) that seems to have promise, but it’s in
-its very early stages, so probably not yet.
+> plugins that seem to solve my issue. The same people that made Catex before made
+> this [Math Keyboard](https://github.com/simpleclub/math_keyboard) for flutter, which I think will be perfect. I also
+> found this project called [MathCanvas](https://github.com/gongbj0113/MathCanvas) that seems to have promise, but it’s in
+> its very early stages, so probably not yet.
 
 In terms of the backend and the login system, I plan to use Firebase for my login system. Firebase works great for user
 management and auth, so it should be a great way to build up the app with a platform I have experience with.

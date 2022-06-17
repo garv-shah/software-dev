@@ -4,11 +4,10 @@ Created: May 8, 2022 2:08 PM
 Tags: Development Model, SAT
 
 The problem-solving methodology is a systematic way of solving problems, which divides the problem into 4 distinct
-stages:
-the Analysis, Design, Development and Evaluation phases. The issue is then worked through using different development
-models, as the process is not necessarily linear and can be executed in different ways. It is a methodology or a
-framework, and the way in which it is executed is known as a Development Model. For the purposes of this SAT, there are
-3 different development models available:
+stages: the Analysis, Design, Development and Evaluation phases. The issue is then worked through using different
+development models, as the process is not necessarily linear and can be executed in different ways. It is a methodology
+or a framework, and the way in which it is executed is known as a Development Model. For the purposes of this SAT, there
+are 3 different development models available:
 
 ## Waterfall
 
@@ -42,20 +41,22 @@ necessarily wanting continuous development but rather managing risks. It is spli
 made, the risks are analysed and evaluated. This model is beneficial in that traditional processes remain but can still
 scale to be larger, and prototypes are developed quickly with risks being fast to deal with, but on the other hand, it
 can be more expensive than other models and creates an unnecessary amount of stages for small projects. This model is
-best suited to the kinds of projects where risks are expected and need to be prevented fast, the client is not too sure how to
+best suited to the kinds of projects where risks are expected and need to be prevented fast, the client is not too sure
+how to
 proceed and the product needs to be released quickly and can be updated after that.
 
 # Selected Model
 
-I have opted to select Agile as my development model due to its flexibility and close connection with the client. I
-didn’t quite think Waterfall was suitable for my needs, as I have an audience that I am working very closely with, and
-it doesn’t sound too logical to not be able to go back and make any changes based on active feedback from my audience.
-Agile seemed better suited due to the close involvement with clients along with rapid releases that are tangible. I also
-don’t necessarily need *too* much documentation, besides what is required by the subject, as this is a project I am
-working on by myself and others do not need information about the software solution to work on it with me. Mainly, the
-rigidity of Waterfall was not appealing, and if a major roadblock was found in the middle of the project that was not
-accounted for before, the model would not be too flexible to adapt. Finally, I believed Spiral was not the best choice
-as it seemed to take up more time than the other models, creating an unnecessary amount of stages. Unlike the scenarios
-where Spiral is better suited, my clients are pretty confident with how to proceed and I do not need a quick product
-release or expect many risks with quick responses. As such, the decision lay mostly between Waterfall and Agile, but
-Agile was selected due to its ability to be more flexible with changes to the project.
+The selected development model is Agile due to its flexibility and close connection with the client. Waterfall wasn't
+quite suitable to the needs of the project, as the developer and the audience have a close connection, meaning the two
+will work closely together, and in such a case it would not be very logical to not be able to go back and make any
+changes based on active feedback from the client or target audience. Agile will be better suited due to the close
+involvement with clients along with rapid releases that are tangible. The project also does not necessarily need much
+documentation, besides what is required by the subject, as this is a project that has an individual developer and
+external workers do not need to collaborate on the codebase. Mainly, the rigidity of Waterfall was deemed not suitable,
+and if a major roadblock was to be found in the middle of the project that was not accounted for before, the model would
+not be flexible enough to adapt. Finally, Spiral was also not the best choice as it would take up more time than the
+other models, creating an unnecessary amount of stages. Unlike the scenarios where Spiral is better suited, the clients
+of this project are relatively confident with how to proceed, and the developer does not need a quick product release or
+expect many risks with quick responses. As such, the decision lay mostly between Waterfall and Agile, but Agile was
+selected due to its ability to be more flexible with changes to the project.

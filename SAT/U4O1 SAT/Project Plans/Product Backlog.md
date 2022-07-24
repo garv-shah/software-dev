@@ -49,3 +49,11 @@ Tags: Sprint Planning, SAT
 
 - Light and dark mode
 - Change theme based on system preference
+
+## Development Workflow
+- Fastlane Integration
+- CI/CD
+
+## UI
+- Material Design
+- Mockup as specified in Design

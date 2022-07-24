@@ -3,7 +3,7 @@
 Created: June 18, 2022 11:14 AM
 Tags: Sprint Planning, SAT
 
-## Search Engine
+## Search Engine (50% Done: UI)
 
 - Search for certain sections or individual quizzes/posts
 - Ability to open and enter different parts of the app from the search engine
@@ -17,15 +17,13 @@ Tags: Sprint Planning, SAT
 - Members should be able to answer questions within the quiz interface
 - Should be able to differentiate between different math being equal or the same
 
-## Divided Section for Junior/Senior etc
+## Divided Section for Junior/Senior etc (75% Done: UI)
 
-- The GUI should be able to provide easy separation for sections such as Junior and Senior, or different filters
 - There will be a “group” system, where you can create different groups and assign users to them, which gives them
   certain access to different parts of the app. These may include “admin”, “junior” or “senior”
 
-## Leaderboards
+## Leaderboards (50% Done: UI)
 
-- There should be a leaderboards page, where points from quizzes can be viewed
 - Clients should be able to click a button to automatically scroll to their leaderboard position
 - Badge System: members should be able to get badges that will be manually assigned
 
@@ -33,27 +31,12 @@ Tags: Sprint Planning, SAT
 
 - Question curators should be able to optionally provide hints that users view
 
-## Forums/Ability to Comment on Posts
+## ~~Forums/Ability to Comment on Posts~~
 
-- Members should be able to comment on posts, facilitating community interaction
-- Members who are not approved (i.e., people not part of the CGS community) should not be able to post messages
-  (dependent on “group” system)
+- ~~Members should be able to comment on posts, facilitating community interaction~~
+- ~~Members who are not approved (i.e., people not part of the CGS community) should not be able to post messages
+  (dependent on “group” system)~~
 
-## Login System
-
-- Ability to register
-- Ability to change password
-- Ability to log in with service provider
-
-## Adaptive Theme
-
-- Light and dark mode
-- Change theme based on system preference
-
-## Development Workflow
-- Fastlane Integration
-- CI/CD
-
-## UI
-- Material Design
-- Mockup as specified in Design
+## ~~Development Workflow~~
+- ~~Fastlane Integration~~
+- ~~CI/CD~~

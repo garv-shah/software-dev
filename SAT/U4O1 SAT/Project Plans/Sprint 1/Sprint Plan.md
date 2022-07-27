@@ -1,4 +1,4 @@
-# Sprint Plan 1
+# Sprint 1 Plan
 
 Created: June 23, 2022 01:49 PM
 Tags: Sprint Planning, SAT

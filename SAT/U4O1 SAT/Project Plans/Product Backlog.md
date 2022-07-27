@@ -16,16 +16,21 @@ Tags: Sprint Planning, SAT
 - Solutions only to be released after the quiz period
 - Members should be able to answer questions within the quiz interface
 - Should be able to differentiate between different math being equal or the same
+- Get Quill document to serialise to a JSON document
+- Load Quill JSON
+- Linked to Firebase
 
 ## Divided Section for Junior/Senior etc (75% Done: UI)
 
 - There will be a “group” system, where you can create different groups and assign users to them, which gives them
   certain access to different parts of the app. These may include “admin”, “junior” or “senior”
+- Linked to Firebase
 
 ## Leaderboards (50% Done: UI)
 
 - Clients should be able to click a button to automatically scroll to their leaderboard position
 - Badge System: members should be able to get badges that will be manually assigned
+- Linked to Firebase
 
 ## Optional Hints
 

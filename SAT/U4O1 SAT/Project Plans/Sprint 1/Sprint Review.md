@@ -1,7 +1,7 @@
 # Sprint Review
 
-Created: July 26, 2022 01:40 PM
-Tags: Sprint Planning, SAT
+Created: July 26, 2022 01:40 PM <br>
+Tags: Sprint Planning, SAT <br>
 
 ## Progress!
 

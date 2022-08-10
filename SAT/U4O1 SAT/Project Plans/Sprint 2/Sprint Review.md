@@ -1,7 +1,7 @@
 # Sprint 2 Review
 
-Created: August 8, 2022 01:53 PM
-Tags: Sprint Planning, SAT
+Created: August 8, 2022 01:53 PM <br>
+Tags: Sprint Planning, SAT <br>
 
 # A Complete App!
 
@@ -18,7 +18,7 @@ these, it can be better to only focus on problems directly within the scope, and
 development process that are lower priority to a later sprint. This was especially true for when I wanted to make the
 whole app stateful with a live stream. I thought it would be cool to have the whole app be live, but when I started
 encountering problems with it, I should have realised that it was not worth pursuing and just moved it to something that
-could be done at a later date. Instead I got way too fixated on it, and tried to create a custom implementation, which I
+could be done at a later date. Instead, I got way too fixated on it, and tried to create a custom implementation, which I
 had to scrap later due to the problems I encountered with it anyway. It was a major roadblock and took up far more time
 than it should have, taking away from more important features.
 

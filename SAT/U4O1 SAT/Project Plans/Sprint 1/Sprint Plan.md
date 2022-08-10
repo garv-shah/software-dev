@@ -1,7 +1,7 @@
 # Sprint 1 Plan
 
-Created: June 23, 2022 01:49 PM
-Tags: Sprint Planning, SAT
+Created: June 23, 2022 01:49 PM <br>
+Tags: Sprint Planning, SAT <br>
 
 # Sprint Goals
 - Login System

@@ -45,7 +45,7 @@ The interviews revealed a couple usability issues when it came to the Maths Club
 through a third party, as no direct contributors to the project could be present at the Maths Club sessions in the time
 frame of the SAT.
 
-A snippet of the interview with Mr. McCarty (Maths Teacher) can be found [here]().
+A snippet of the interview with Mr. McCarty (Maths Teacher) can be found [here](Mr.%20McCarty%20Interview.mp3).
 
 ## Image Issues
 
@@ -77,3 +77,17 @@ Overall, the app seems to have usability that is more than satisfactory for the 
 clients sampled prefer this solution over prior ones, and most found it intuitive and easy to understand. A couple
 issues need to addressed, such as images, quiz issues, and a lack of math typing support, but the general response was
 positive!
+
+# Appendix (Fixes)
+
+The usability tests have resulted in various fixes being made to the app with version 1.0.1, as shown below:
+
+- Images have been mostly fixed, with domains from Discord and Google Drive being manipulated, along with a CORS proxy
+- Quiz creation usability has been improved, with the app preventing from publishing to non-draft groups if solutions
+  are empty. Warnings have also been added if changes are not saved, and the ability to delete posts has been added.
+- Various widget sizes have been changed to improve usability
+- Inline Math support in documents has been improved
+- Post solutions now show LATEX solutions too
+
+These changes address most concerns users have been having with the initial release, and will aid in improving usability
+for all clients.

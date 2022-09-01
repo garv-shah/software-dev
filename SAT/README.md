@@ -1,4 +1,10 @@
 This SAT covers Garv Shah's project for Software Development, where an app for the CGS Maths Club has been developed.
+
+Links to app:
+- Apple: [https://apps.apple.com/us/app/maths-club/id1633075771](https://apps.apple.com/us/app/maths-club/id1633075771)
+- Android: [https://play.google.com/store/apps/details?id=com.garv.maths_club](https://play.google.com/store/apps/details?id=com.garv.maths_club)
+- Website: [http://cgs-math.github.io](http://cgs-math.github.io)
+
 Below is a directory of work, organised by each outcome/section:
 
 # SAT Preparations (pre-outcomes)

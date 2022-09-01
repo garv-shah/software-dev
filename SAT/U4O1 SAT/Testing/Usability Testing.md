@@ -13,6 +13,14 @@ content creators/admins (the Maths Club team).
 
 The results of the survey are linked [here](https://gshah6110.typeform.com/report/QQU7meAh/8SDZwCirxBvqH80b).
 
+## Targeted Requirements
+
+- Search Engine
+- Quiz System
+- Leaderboards
+- Usability
+- Reliability
+
 # Survey (Students)
 
 The main takeaways form the survey are that the app overall is quite a good solution that in general is better than
@@ -88,6 +96,10 @@ The usability tests have resulted in various fixes being made to the app with ve
 - Various widget sizes have been changed to improve usability
 - Inline Math support in documents has been improved
 - Post solutions now show LATEX solutions too
+
+Version 1.0.2 was also released with the following changes:
+- Images can now be uploaded from the app directly, which get stored into Firebase Storage
+- The "Admin Panel" button was removed, as it was not reflective of the functionality of the app
 
 These changes address most concerns users have been having with the initial release, and will aid in improving usability
 for all clients.

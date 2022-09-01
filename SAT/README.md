@@ -74,3 +74,62 @@ The SRS document can be found as a formalised PDF [here](U3O2%20SAT/SRS/Maths%20
     - [x] Comprehensively documents evidence of critical/creative thinking through the connection + generation of ideas
 
 # [U4O1](U4O1%20SAT)
+
+## Developing Software Solution (U4O1, 6)
+
+In class observations
+
+Note that the main code inside the repository is inside the `lib` folder, with cloud functions stored in the `functions` folder
+
+- [Codebase/Repository](https://github.com/cgs-math/app)
+  - [x] Uses a range of appropriate processing features
+  - [x] Writes comprehensive internal documentation
+  - [x] Applies appropriate validation techniques
+- [Process Journal](https://garv-shah.notion.site/Garv-s-Blog-80ae26b22fd04677a0553fa668f6fc03)
+  - [x] Documents critical and creative thinking
+- [Sprint 1 Plan](U4O1%20SAT/Project%20Plans/Sprint%201/Sprint%20Plan.md), [Sprint 1 Review](U4O1%20SAT/Project%20Plans/Sprint%201/Sprint%20Review.md), [Sprint 2 Plan](U4O1%20SAT/Project%20Plans/Sprint%202/Sprint%20Plan.md), [Sprint 2 Review](U4O1%20SAT/Project%20Plans/Sprint%202/Sprint%20Review.md)
+  - [x] Documents critical and creative thinking
+- [Product Backlog](U4O1%20SAT/Project%20Plans/Product%20Backlog.md)
+  - [x] Documents critical and creative thinking
+
+## Managing Data, Files & Testing (U4O1, 7)
+
+- [File Management Plan](U4O1%20SAT/Project%20Plans/File%20Management%20Plan.docx)
+  - [x] Data structures to manage data and files
+  - [x] Security of all data and files.
+- [Codebase/Repository](https://github.com/cgs-math/app)
+  - [x] Security of all data and files.
+  - [x] Data structures to manage data and files
+- Backups on OneDrive
+  - [x] Security of all data and files.
+- [Test Tables](https://garv-shah.github.io/software-dev/SAT/U4O1%20SAT/Testing/Test%20Table)
+  - [x] Documents testing techniques and data
+- [Firebase Database](https://console.firebase.google.com/u/0/project/cgs-maths-club/): ask for permission
+  - [x] Data structures to manage data and files
+  - [x] Security of all data and files.
+
+## Usability Testing (U4O1, 8)
+
+- [Usability Tests](https://garv-shah.github.io/software-dev/SAT/U4O1%20SAT/Testing/Usability%20Testing)
+  - [x] Preparation/conduction of usability tests
+  - [x] Documentation of results
+- [Evaluation Report](U4O1%20SAT/Evaluation/Maths%20Club%20Evaluation%20Report.pdf)
+  - [x] Modifications to be made
+  - [x] Documentation of results
+
+## Evaluating Software Report (U4O1, 9)
+
+- [Evaluation Report](U4O1%20SAT/Evaluation/Maths%20Club%20Evaluation%20Report.pdf)
+  - [x] Documents strategies for evaluating efficiency and effectiveness of solution
+  - [x] Evaluates efficiency and effectiveness of solution
+  - [x] Evaluates development model
+  - [x] Documents critical and creative thinking
+
+## Assessing Project Plan (U4O1, 10)
+
+- [Evaluation Report](U4O1%20SAT/Evaluation/Maths%20Club%20Evaluation%20Report.pdf)
+  - [x] Documents modifications made to initial project plan
+  - [x] Assesses effectiveness of project plan
+- [Process Journal](https://garv-shah.notion.site/Garv-s-Blog-80ae26b22fd04677a0553fa668f6fc03)
+  - [x] Documents modifications made to initial project plan
+  - [x] Assesses effectiveness of project plan

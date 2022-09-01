@@ -28,4 +28,4 @@ phase, but may add some of the desired features as well if I find the time.
 ## Blog:
 
 For more information on the progress throughout the sprint and a review of what was and was not completed, please view
-the blog of the project [here](https://garv-shah.vercel.app)
+the blog of the project [here](https://garv-shah.notion.site/Garv-s-Blog-80ae26b22fd04677a0553fa668f6fc03)
